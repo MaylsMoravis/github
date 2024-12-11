@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.input {
+    width: 80px;
+    height: 40px;
+    color: rgb(117, 117, 117);
+    margin-top: 50px;
+    margin-left: 300px;
+    border-radius: 7px;
+    box-shadow: 5px 5px 10px #636363 5px;
+    background-color: rgb(117, 117, 117);
+}
+
+.input:hover {
+    width: 240px;
+    height: 40px;
+    border:1px groove #fff;
+    background-color: #fff;
+    color: #000;
+    padding-left: 20px;
+}
